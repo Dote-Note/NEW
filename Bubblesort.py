@@ -10,7 +10,7 @@ isSwapped = True
 list[i], list[i+1] = list[i+1], list[i] 
 
 # Test bubble sort 
-list = [19, 1, 9, 3, 10, 13] 
+list = [29.2, 71, 98, 78, 62, 29.1] 
 bubbleSort(list) 
 print('Sorted array in ascending order:')
 print(list)
